@@ -1,0 +1,14 @@
+<root>
+    <filme titulo="NA QUEBRADA" image="asset:///Images/naquebrada.jpg"/>
+    <filme titulo="GAROTA EXEMPLAR" image="asset:///Images/garotaexemplar.jpg"/>
+    <filme titulo="O CANDIDATO HONESTO" image="asset:///Images/ocandidatohonesto.jpg"/>
+    <filme titulo="O ÚLTIMO CONCERTO" image="asset:///Images/oultimoconcerto.jpg"/>
+    <filme titulo="DEBI E LÓIDE 2" image="asset:///Images/debiloide.jpg"/>
+    <filme titulo="ANNABELLE" image="asset:///Images/annabelle.jpg"/>
+    <filme titulo="FESTA NO CÉU" image="asset:///Images/festanoceu.jpg"/>
+    <filme titulo="TIM MAIA" image="asset:///Images/timmaia.jpg"/>
+    <filme titulo="O JUIZ" image="asset:///Images/ojuiz.jpg"/>
+    <filme titulo="IRMÃ DULCE" image="asset:///Images/irmadulce.jpg"/>
+    <filme titulo="INTERESTELAR" image="asset:///Images/interestelar.jpg"/>
+    <filme titulo="DRÁCULA - A HISTÒRIA NUNCA CONTADA" image="asset:///Images/dracula.jpg"/>
+</root>
