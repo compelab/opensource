@@ -1,8 +1,11 @@
 ---------------------------------------------------
 
 HACKATHON CORDOVA 2014 - NOVEMBER EDITION 
+
 COMPELab - Mobile & Pervasive Computing Laboratory 
+
 Federal University of Alagoas (UFAL) 
+
 Institute of Computing (IC) 
 
 ---------------------------------------------------
@@ -35,3 +38,8 @@ Institute of Computing (IC)
     - About the project.
     - Who we are.
     - Contact us.
+
+
+- Plugins
+  - org.apache.cordova.camera // Attachs camera pictures or galery pictures
+  - org.apache.cordova.statusbar // Alerts of beginning of class, class status update, files attached
