@@ -36,7 +36,7 @@
 </head>
 
 <body onload="prepareApp()" ng-controller='AppCtrl'>
-    
+
     <!-- SNAP-LEFT -->
     <div class="snap-drawers">
         <div class="snap-drawer snap-drawer-left">
@@ -50,7 +50,7 @@
             </ul>
         </div>
     </div>
-    
+
     <!-- CONTENT -->
     <div id="content" class="snap-content">
         <div id="toolbar"><span class="icons glyphicon glyphicon-align-justify" ng-click="openLeft()"></span><p ng-click="openLeft()">Menu</p></div>
@@ -62,7 +62,7 @@
 </body>
 
     <script>
-        var prepareApp = function () {    
+        var prepareApp = function () {
             document.addEventListener("deviceready", function () {
                 angular.bootstrap(document, ['tp.app']);
                 FastClick.attach(document.body);
