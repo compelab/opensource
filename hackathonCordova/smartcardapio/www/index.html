@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="bower_components/angular-material/angular-material.css">
+</head>
+    <body ng-app="YourApp">
+
+    <div ng-controller="YourController">
+
+    </div>
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/hammerjs/hammer.js"></script>
+    <script src="bower_components/angular-material/angular-material.js"></script>
+    <script>
+
+        // Include app dependency on ngMaterial
+
+        angular.module( 'YourApp', [ 'ngMaterial' ] )
+            .controller("YourController", function() { console.log("oi")} );
+
+    </script>
+
+<!-- 
+    <md-button>
+  Button
+</md-button>
+<md-button href="http://google.com" class="md-button-colored">
+  I'm a link
+</md-button>
+<md-button ng-disabled="true" class="md-colored">
+  I'm a disabled button
+</md-button>
+
+
+<md-list>
+ <md-item ng-repeat="item in todos">
+   <div class="md-tile-left">
+     <img ng-src="{{item.face}}" class="face" alt="{{item.who}}">
+   </div>
+   <div class="md-tile-content">
+     <h3>{{item.what}}</h3>
+     <h4>{{item.who}}</h4>
+     <p>
+       {{item.notes}}
+     </p>
+   </div>
+ </md-item>
+</md-list> -->
+
+
+
+<md-tabs>
+  <md-tab label="Tab #1"></md-tab>
+  <md-tab label="Tab #2"></md-tab>
+  <md-tab label="Tab #3"></md-tab>
+<md-tabs>
+</md-tabs></md-tabs>
+
+
+</body>
+</html>
