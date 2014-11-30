@@ -1,3 +1,6 @@
+CordovaLib
+assets/www/bower_components/
+
 # Non-project-specific build files:
 build.xml
 local.properties
