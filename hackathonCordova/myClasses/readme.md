@@ -17,8 +17,8 @@ Institute of Computing (IC)
 4. Italo Oliveira 
 
 # Software Engineering
-- Which functions does the app has?
-  - Shows if a class will happen in the day.
+- Which functions does the app have?
+  - Shows if a class will happen in the current day.
   - Shows what is going on in a select class.
   - Shows attached images/video too (picture of the board / lecture of the professor).
 
@@ -31,8 +31,13 @@ Institute of Computing (IC)
     - The user will checkbox a class and another page will open.
 
   - PAGE 2 - UPLOAD CLASS STATUS
-    - The user'll be able to update the status of a class, prompting the subject that is being lectured.
-    - The user also will be able to attach some picture/video of a course subject.
+    - User update
+      - The user'll be able to update the status of a class, prompting the subject that is being lectured.
+      - The user also will be able to attach some picture/video of a course subject.
+    - Professor update
+      - Checkbox if a class will happen.
+      - Yes or No.
+      - Can justify the reason if the 'No' option is selected.
 
   - PAGE 3 - ADDITIONAL INFORMATIONS
     - About the project.
@@ -46,4 +51,4 @@ Institute of Computing (IC)
   - org.apache.cordova.statusbar 
     - Class beginning alert
     - Class status update alert
-    - Files attached alet
+    - Files attached alert
