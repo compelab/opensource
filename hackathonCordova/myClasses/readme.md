@@ -12,4 +12,6 @@ Institute of Computing (IC)
 1.1. Bruno Belo 
 1.2. Caio Barbosa 
 1.3. Durval Pereira 
-1.4. Italo Oliveira 
+1.4. Italo Oliveira
+
+2. Topics
