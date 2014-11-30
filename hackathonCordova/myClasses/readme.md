@@ -1,6 +1,6 @@
 ---------------------------------------------------
 
-HACKATHON CORDOVA 2014 - NOVEMBER EDITION
+HACKATHON CORDOVA 2014 - NOVEMBER EDITION 
 COMPELab - Mobile & Pervasive Computing Laboratory 
 Federal University of Alagoas (UFAL) 
 Institute of Computing (IC) 
