@@ -1,6 +1,6 @@
 ---------------------------------------------------
 
-#HACKATHON CORDOVA 2014 - NOVEMBER EDITION 
+#CordovaHackathon 2014, November Edition 
 
 COMPELab - Mobile & Pervasive Computing Laboratory 
 
