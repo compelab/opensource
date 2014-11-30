@@ -1,4 +1,4 @@
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/CordovaApp-debug-unaligned.apk : \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/CordovaApp.ap_ \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/classes.dex \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/CordovaLib/ant-build/classes.jar \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\CordovaApp-debug-unaligned.apk : \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\CordovaApp.ap_ \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\classes.dex \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\CordovaLib\ant-build\classes.jar \

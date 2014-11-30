@@ -1,385 +1,385 @@
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/CordovaApp.ap_ \
- : /home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/values/strings.xml \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-land-ldpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-port-hdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-ldpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-xhdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-port-xhdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-mdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-land-mdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/xml/config.xml \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-port-ldpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-land-hdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-port-mdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-hdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/res/drawable-land-xhdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-ldpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-mdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-hdpi/icon.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/_where-is-www.txt \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/cordova.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/cordova_plugins.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/scss \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/index.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/cordova.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/scss/app.scss \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/css/app.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap/ui-bootstrap-tpls.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap/ui-bootstrap.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-bootstrap/ui-bootstrap.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/LICENSE \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/Gruntfile.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/fonts \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/list-group.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/alerts.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/normalize.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/glyphicons.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/bootstrap.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/modals.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/progress-bars.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/panels.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/tooltip.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/popovers.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/close.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/responsive-embed.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/navbar.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/scaffolding.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/navs.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/input-groups.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/wells.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/responsive-utilities.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/forms.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/buttons.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/component-animations.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/jumbotron.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/carousel.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/breadcrumbs.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/labels.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/utilities.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/button-groups.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/dropdowns.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/pager.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/pagination.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/media.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/type.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/print.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/thumbnails.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/code.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/theme.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/grid.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/badges.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/variables.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/tables.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/responsive-visibility.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/list-group.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/alerts.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/table-row.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/background-variant.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/vendor-prefixes.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/opacity.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/panels.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/text-overflow.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/tab-focus.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/hide-text.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/grid-framework.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/forms.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/buttons.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/border-radius.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/reset-filter.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/labels.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/pagination.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/nav-vertical-align.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/nav-divider.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/image.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/resize.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/size.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/gradients.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/clearfix.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/grid.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/progress-bar.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/center-block.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/less/mixins/text-emphasis.less \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/fonts \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/js/bootstrap.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/js/bootstrap.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/js/npm.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap-theme.css.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap.min.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap.css.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap-theme.min.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/css/bootstrap-theme.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/popover.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/collapse.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/tooltip.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/transition.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/button.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/modal.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/carousel.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/dropdown.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/tab.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/affix.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/scrollspy.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/js/alert.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt/configBridge.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt/bs-commonjs-generator.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt/sauce_browsers.yml \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt/bs-raw-files-generator.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/grunt/bs-lessdoc-parser.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/angular-sanitize.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/angular-sanitize.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-sanitize/angular-sanitize.min.js.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/snap.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/snap.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/component.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/snap.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/index.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/skinnyThreshold.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/toggles.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/dragElement.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/default.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/hyperextend.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/settings.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/noDrag.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/expand.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/classNames.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/rightDisabled.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/ratchet \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/ratchet/ratchet.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/ratchet/template.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/apps/ratchet/ratchet.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets/drag.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets/graph.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets/demo.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets/demo.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/snapjs/demo/assets/open.png \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/angular-route.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/angular-route.min.js.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/angular-route.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-route/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/angular-csp.css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/angular.min.js.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/angular.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/angular.min.js.gzip \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/angular.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/angular-animate.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/angular-animate.min.js.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/angular-animate.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/angular-animate/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/dist \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/LICENSE \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/CHANGELOG.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/package.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/dist/ng-cordova.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/dist/ng-cordova-mocks.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/dist/ng-cordova-mocks.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/ngCordova/dist/ng-cordova.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick/LICENSE \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick/README.md \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick/lib \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/fastclick/lib/fastclick.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/dist \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/MIT-LICENSE.txt \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/bower.json \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/dist/jquery.min.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/dist/jquery.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/dist/jquery.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/selector-sizzle.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/traversing \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/deferred.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/wrap.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/effects \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/offset.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/callbacks.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/selector-native.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/queue \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/serialize.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/jquery.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/outro.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/dimensions.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/selector.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/exports \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/effects.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/intro.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/event.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/event \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/queue.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/sizzle \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/traversing.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/deprecated.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/traversing/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/traversing/findFilter.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/traversing/var/rneedsContext.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes/attr.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes/support.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes/classes.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes/val.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/attributes/prop.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/concat.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/strundefined.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/support.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/push.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/pnum.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/indexOf.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/toString.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/class2type.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/rnotwhite.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/hasOwn.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/slice.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/var/arr.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/effects/animatedSelector.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/effects/Tween.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/curCSS.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/support.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/addGetHookIf.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/swap.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/hiddenVisibleSelectors.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/defaultDisplay.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var/isHidden.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var/rnumnonpx.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var/getStyles.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var/cssExpand.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/css/var/rmargin.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/queue/delay.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data/Data.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data/accepts.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data/var/data_priv.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/data/var/data_user.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/script.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/parseJSON.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/jsonp.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/load.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/parseXML.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/xhr.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/var/nonce.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/ajax/var/rquery.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/init.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/parseHTML.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/access.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/ready.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/core/var/rsingleTag.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/exports/global.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/exports/amd.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/event/support.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/event/alias.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/sizzle/dist \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/sizzle/dist/sizzle.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/sizzle/dist/sizzle.min.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/sizzle/dist/sizzle.min.map \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation/var \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation/support.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation/_evalUrl.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/bower_components/jquery/src/manipulation/var/rcheckableType.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/main-menu \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/item-1 \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/home \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/main-menu/mainMenuModule.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/item-1/item1Module.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/item-1/item1.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/home/homeModule.js \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/app_modules/home/home.html \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Glyph \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Glyph/glyphicons-halflings-regular.svg \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Glyph/glyphicons-halflings-regular.woff \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Glyph/glyphicons-halflings-regular.eot \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Glyph/glyphicons-halflings-regular.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-MediumItalic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-ThinItalic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Italic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Thin.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Bold.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/LICENSE.txt \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Regular.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Light.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-BoldItalic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Black.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-LightItalic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-Medium.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/assets/www/src/fonts/Roboto/Roboto-BlackItalic.ttf \
-/home/guajar/Desktop/programacao/javascript/opensource/hackathonCordova/myClasses/platforms/android/ant-build/AndroidManifest.xml \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\values\strings.xml \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\res\xml\config.xml \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\_where-is-www.txt \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\cordova.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\cordova.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\index.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\scss \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\home \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\item-1 \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\main-menu \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\home\home.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\home\homeModule.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\item-1\item1.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\item-1\item1Module.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\app_modules\main-menu\mainMenuModule.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\angular-csp.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\angular.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\angular.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\angular.min.js.gzip \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\angular.min.js.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\angular-animate.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\angular-animate.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\angular-animate.min.js.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-animate\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap\ui-bootstrap-tpls.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap\ui-bootstrap-tpls.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap\ui-bootstrap.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-bootstrap\ui-bootstrap.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\angular-route.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\angular-route.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\angular-route.min.js.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-route\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\angular-sanitize.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\angular-sanitize.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\angular-sanitize.min.js.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\angular-sanitize\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\fonts \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\Gruntfile.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\LICENSE \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\fonts \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap-theme.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap-theme.css.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap-theme.min.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap.css.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\css\bootstrap.min.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\js\bootstrap.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\js\bootstrap.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\dist\js\npm.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt\bs-commonjs-generator.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt\bs-lessdoc-parser.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt\bs-raw-files-generator.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt\configBridge.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\grunt\sauce_browsers.yml \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\affix.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\alert.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\button.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\carousel.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\collapse.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\dropdown.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\modal.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\popover.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\scrollspy.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\tab.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\tooltip.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\js\transition.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\alerts.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\badges.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\bootstrap.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\breadcrumbs.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\button-groups.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\buttons.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\carousel.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\close.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\code.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\component-animations.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\dropdowns.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\forms.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\glyphicons.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\grid.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\input-groups.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\jumbotron.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\labels.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\list-group.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\media.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\modals.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\navbar.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\navs.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\normalize.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\pager.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\pagination.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\panels.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\popovers.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\print.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\progress-bars.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\responsive-embed.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\responsive-utilities.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\scaffolding.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\tables.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\theme.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\thumbnails.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\tooltip.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\type.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\utilities.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\variables.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\wells.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\alerts.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\background-variant.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\border-radius.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\buttons.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\center-block.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\clearfix.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\forms.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\gradients.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\grid-framework.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\grid.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\hide-text.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\image.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\labels.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\list-group.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\nav-divider.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\nav-vertical-align.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\opacity.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\pagination.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\panels.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\progress-bar.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\reset-filter.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\resize.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\responsive-visibility.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\size.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\tab-focus.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\table-row.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\text-emphasis.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\text-overflow.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\bootstrap\less\mixins\vendor-prefixes.less \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick\lib \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick\LICENSE \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\fastclick\lib\fastclick.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\dist \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\MIT-LICENSE.txt \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\dist\jquery.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\dist\jquery.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\dist\jquery.min.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\callbacks.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\deferred.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\deprecated.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\dimensions.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\effects \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\effects.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\event \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\event.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\exports \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\intro.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\jquery.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\offset.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\outro.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\queue \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\queue.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\selector-native.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\selector-sizzle.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\selector.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\serialize.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\sizzle \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\traversing \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\traversing.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\wrap.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\jsonp.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\load.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\parseJSON.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\parseXML.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\script.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\xhr.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\var\nonce.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\ajax\var\rquery.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes\attr.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes\classes.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes\prop.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes\support.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\attributes\val.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\access.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\init.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\parseHTML.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\ready.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\core\var\rsingleTag.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\addGetHookIf.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\curCSS.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\defaultDisplay.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\hiddenVisibleSelectors.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\support.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\swap.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var\cssExpand.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var\getStyles.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var\isHidden.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var\rmargin.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\css\var\rnumnonpx.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data\accepts.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data\Data.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data\var\data_priv.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\data\var\data_user.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\effects\animatedSelector.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\effects\Tween.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\event\alias.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\event\support.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\exports\amd.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\exports\global.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation\support.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation\_evalUrl.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\manipulation\var\rcheckableType.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\queue\delay.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\sizzle\dist \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\sizzle\dist\sizzle.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\sizzle\dist\sizzle.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\sizzle\dist\sizzle.min.map \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\traversing\findFilter.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\traversing\var \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\traversing\var\rneedsContext.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\arr.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\class2type.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\concat.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\hasOwn.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\indexOf.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\pnum.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\push.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\rnotwhite.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\slice.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\strundefined.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\support.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\jquery\src\var\toString.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\bower.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\CHANGELOG.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\dist \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\LICENSE \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\package.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\dist\ng-cordova-mocks.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\dist\ng-cordova-mocks.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\dist\ng-cordova.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\ngCordova\dist\ng-cordova.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\component.json \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\README.md \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\snap.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\snap.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\snap.min.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\index.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\classNames.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\default.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\dragElement.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\expand.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\hyperextend.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\noDrag.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\ratchet \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\rightDisabled.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\settings.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\skinnyThreshold.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\toggles.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\ratchet\ratchet.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\ratchet\ratchet.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\apps\ratchet\template.html \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets\demo.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets\demo.js \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets\drag.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets\graph.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\bower_components\snapjs\demo\assets\open.png \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\css\app.css \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Glyph \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Glyph\glyphicons-halflings-regular.eot \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Glyph\glyphicons-halflings-regular.svg \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Glyph\glyphicons-halflings-regular.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Glyph\glyphicons-halflings-regular.woff \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\LICENSE.txt \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Black.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-BlackItalic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Bold.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-BoldItalic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Italic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Light.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-LightItalic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Medium.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-MediumItalic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Regular.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-Thin.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\fonts\Roboto\Roboto-ThinItalic.ttf \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\assets\www\src\scss\app.scss \
+C:\Users\Gurio\Projeto Cordova AngularJS\opensource\hackathonCordova\myClasses\platforms\android\ant-build\AndroidManifest.xml \
