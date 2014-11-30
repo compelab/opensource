@@ -31,7 +31,7 @@ Institute of Computing (IC)
     - The user will checkbox a class and another page will open.
 
   - PAGE 2 - UPLOAD CLASS STATUS
-    - The user will be able to update the status of a class, checkboxing the course subject that is being lectured.
+    - The user'll be able to update the status of a class, prompting the subject that is being lectured.
     - The user also will be able to attach some picture/video of a course subject.
 
   - PAGE 3 - ADDITIONAL INFORMATIONS
