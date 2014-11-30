@@ -15,8 +15,8 @@ Escopo do projeto
 
 Membros da equipe
 -----------
-*Camilo Campos
-*Dielson Carvalho
-*Emanuel Adler
+* Camilo Campos
+* Dielson Carvalho
+* Emanuel Adler
 
 
