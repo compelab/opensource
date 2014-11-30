@@ -1,12 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.gods.myClasses" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>myClasses</name>
-    <description>
-        A sample Apache Cordova application that responds to the deviceready event.
-    </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
-    </author>
-    <content src="src/index.html" />
-    <access origin="*" />
-</widget>
+<?xml version="1.0" encoding="UTF-8"?><widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="br.com.gods.teste" version="0.1.1">
+    <name>Teste</name>
+
+    <description>A Sample Chrome App</description>
+
+    <author>Author Name &lt;a@b.com></author>
+
+    <preference name="KeyboardShrinksView" value="true"/>
+    <preference name="StatusBarOverlaysWebView" value="false"/>
+    <preference name="StatusBarBackgroundColor" value="#000000"/>
+    <preference name="iosPersistentFileLocation" value="Library"/>
+    <preference name="AndroidPersistentFileLocation" value="Internal"/>
+
+    <content src="plugins/org.chromium.bootstrap/chromeapp.html"/>
+<preference name="android-minSdkVersion" value="14"/><access origin="*"/></widget>
