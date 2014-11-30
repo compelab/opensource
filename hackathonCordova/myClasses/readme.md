@@ -39,7 +39,11 @@ Institute of Computing (IC)
     - Who we are.
     - Contact us.
 
-
-- Plugins
-  - org.apache.cordova.camera // Attachs camera pictures or galery pictures
-  - org.apache.cordova.statusbar // Alerts of beginning of class, class status update, files attached
+# Plugins
+  - org.apache.cordova.camera
+    - Attachs camera pictures
+    - Attachs galery pictures
+  - org.apache.cordova.statusbar 
+    - Class beginning alert
+    - Class status update alert
+    - Files attached alet
