@@ -62,15 +62,14 @@
 
     <script>
         var prepareApp = function () {    
-            document.addEventListener("deviceready", function () {
+            // document.addEventListener("deviceready", function () {
                 angular.bootstrap(document, ['tp.app']);
                 FastClick.attach(document.body);
                 document.getElementById('scrollable-content-area').style.height = (window.innerHeight - 50) + 'px';
-            }, false);
+            // }, false);
 
         }
     </script>
-    <script type="text/javascript" src="cordova.js"></script>
 
 
 </html>
