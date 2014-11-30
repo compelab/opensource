@@ -1,1 +1,0 @@
-!function(){"use strict";angular.module("tp.termsandconditions",["tp.locale"]).controller("TermsAndConditionsCtrl",function($scope,LanguageService){$scope.serviceTerms=LanguageService.getLanguageJSON().Terms_of_Service_Text})}();

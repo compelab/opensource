@@ -1,1 +1,0 @@
-!function(){"use strict";angular.module("tp.user",[]).factory("UserService",function(){var user={};return{setUser:function(userFromController){user=userFromController,localStorage.setItem("user",JSON.stringify(user))},getUser:function(){var userRequested=localStorage.getItem("user");return null!=userRequested?JSON.parse(userRequested):user}}})}();
