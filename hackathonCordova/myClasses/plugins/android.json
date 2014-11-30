@@ -9,61 +9,11 @@
                 "parents": {
                     "/*": [
                         {
-                            "xml": "<preference name=\"webView\" value=\"org.apache.cordova.engine.crosswalk.XWalkCordovaWebView\" />",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"File\"><param name=\"android-package\" value=\"org.apache.cordova.file.FileUtils\" /><param name=\"onload\" value=\"true\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"NetworkStatus\"><param name=\"android-package\" value=\"org.apache.cordova.networkinformation.NetworkManager\" /></feature>",
+                            "xml": "<feature name=\"Camera\"><param name=\"android-package\" value=\"org.apache.cordova.camera.CameraLauncher\" /></feature>",
                             "count": 1
                         },
                         {
                             "xml": "<feature name=\"StatusBar\"><param name=\"android-package\" onload=\"true\" value=\"org.apache.cordova.statusbar.StatusBar\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"Camera\"><param name=\"android-package\" value=\"org.apache.cordova.camera.CameraLauncher\" /></feature>",
-                            "count": 1
-                        }
-                    ],
-                    "/widget": [
-                        {
-                            "xml": "<feature name=\"ChromeStorage\"><param name=\"android-package\" value=\"org.chromium.ChromeStorage\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"ChromeNavigation\"><param name=\"android-package\" value=\"org.chromium.ChromeNavigation\" /><param name=\"onload\" value=\"true\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"ChromeAppWindow\"><param name=\"android-package\" value=\"org.chromium.ChromeAppWindow\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"ChromeBootstrap\"><param name=\"android-package\" value=\"org.chromium.ChromeBootstrap\" /><param name=\"onload\" value=\"true\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"ChromeExtensionURLs\"><param name=\"android-package\" value=\"org.chromium.ChromeExtensionURLs\" /><param name=\"onload\" value=\"true\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<access origin=\"chrome-extension://*\" />",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<preference name=\"DisallowOverscroll\" value=\"true\" />",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"ChromeI18n\"><param name=\"android-package\" value=\"org.chromium.ChromeI18n\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
                         }
                     ]
@@ -74,10 +24,6 @@
                     "/*": [
                         {
                             "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
-                            "count": 2
-                        },
-                        {
-                            "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
                             "count": 1
                         }
                     ]
@@ -86,52 +32,12 @@
         }
     },
     "installed_plugins": {
-        "org.apache.cordova.engine.crosswalk": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.apache.cordova.file": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.apache.cordova.inappbrowser": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.apache.cordova.network-information": {
-            "PACKAGE_NAME": "br.com.gods.teste"
+        "org.apache.cordova.camera": {
+            "PACKAGE_NAME": "br.com.gods.myClasses"
         },
         "org.apache.cordova.statusbar": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.common": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.runtime": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.navigation": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.bootstrap": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.i18n": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.polyfill.customevent": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.polyfill.xhr_features": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.chromium.polyfill.blob_constructor": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        },
-        "org.apache.cordova.camera": {
-            "PACKAGE_NAME": "br.com.gods.teste"
+            "PACKAGE_NAME": "br.com.gods.myClasses"
         }
     },
-    "dependent_plugins": {
-        "org.chromium.storage": {
-            "PACKAGE_NAME": "br.com.gods.teste"
-        }
-    }
+    "dependent_plugins": {}
 }
