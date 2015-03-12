@@ -26,28 +26,28 @@
 
     <!-- A universally unique application identifier. Must be unique across all BlackBerry 10 applications.
          Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-    <id>com.example.CascadesCourse</id>
+    <id>com.example.AulaUfal2</id>
     <configuration name="Device-Debug">
        <platformArchitecture>armle-v7</platformArchitecture>
-       <asset path="arm/o.le-v7-g/CascadesCourse" entry="true" type="Qnx/Elf">CascadesCourse</asset>
+       <asset path="arm/o.le-v7-g/AulaUfal2" entry="true" type="Qnx/Elf">AulaUfal2</asset>
     </configuration>
     <configuration name="Device-Release">
        <entryPointType>Qnx/Cascades</entryPointType>
        <platformArchitecture>armle-v7</platformArchitecture>
-       <asset path="arm/o.le-v7/CascadesCourse.so" entry="true" type="Qnx/Elf">CascadesCourse.so</asset>
+       <asset path="arm/o.le-v7/AulaUfal2.so" entry="true" type="Qnx/Elf">AulaUfal2.so</asset>
     </configuration>
     <configuration name="Device-Profile">
        <platformArchitecture>armle-v7</platformArchitecture>
-       <asset path="arm-p/o.le-v7-g/CascadesCourse" entry="true" type="Qnx/Elf">CascadesCourse</asset>
+       <asset path="arm-p/o.le-v7-g/AulaUfal2" entry="true" type="Qnx/Elf">AulaUfal2</asset>
     </configuration>
     <configuration name="Simulator-Debug">
        <platformArchitecture>x86</platformArchitecture>
-       <asset path="x86/o-g/CascadesCourse" entry="true" type="Qnx/Elf">CascadesCourse</asset>
+       <asset path="x86/o-g/AulaUfal2" entry="true" type="Qnx/Elf">AulaUfal2</asset>
     </configuration>
 
     <!-- The name that is displayed in the BlackBerry 10 application installer.
          May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <name>CascadesCourse</name>
+    <name>AulaUfal2</name>
 
     <!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade.
          Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
@@ -63,7 +63,7 @@
 
     <!-- Description, displayed in the BlackBerry 10 application installer.
          May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <description>The CascadesCourse application</description>
+    <description>The AulaUfal2 application</description>
 
     <!-- Copyright information. Optional. -->
     <!-- <copyright></copyright> -->
@@ -94,6 +94,7 @@
 
     <!-- Request permission to execute native code.  Required for native applications. -->
     <permission system="true">run_native</permission>
+       <permission>access_led_control</permission>
     <env var="LD_LIBRARY_PATH" value="app/native/lib:/usr/lib/qt4/lib"/>
 
 </qnx>

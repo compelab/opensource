@@ -18,6 +18,11 @@
 #define ApplicationUI_HPP_
 
 #include <QObject>
+#include <bb/device/Led>
+#include <bb/system/InvokeManager>
+#include <bb/system/InvokeRequest>
+#include <bb/system/InvokeTargetReply>
+#include <QDebug>
 
 namespace bb
 {
@@ -40,6 +45,11 @@ class ApplicationUI : public QObject
 public:
     ApplicationUI();
     virtual ~ApplicationUI() {}
+    Q_INVOKABLE void piscarLed(int times) {
+        qDebug() << "Piscando o led";
+        bb::device::Led * led = new bb::device::Led(bb::device::LedColor::Red);
+        led->flash(10);
+    }
 private slots:
     void onSystemLanguageChanged();
 private:

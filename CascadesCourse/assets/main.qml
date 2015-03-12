@@ -17,41 +17,34 @@
 import bb.cascades 1.2
 
 TabbedPane {
-    tabs: [
-        Tab {
-            title: qsTr("Filmes em cartaz")
-            Page {
-                titleBar: TitleBar {
-                    title: qsTr("Filmes em cartaz")
-                }
-                Container {
-                    ListView {
-                        dataModel: XmlDataModel {
-                            source: "asset:///XML/filmes.xml"
-                        }
-                        listItemComponents: [
-                            ListItemComponent {
-                                type: "filme"
-                                StandardListItem {
-                                    title: ListItemData.titulo
-                                    imageSource: ListItemData.image
-                                }
-                            }
-                        ]
-                    }
-                }
-            }
-        },
-        Tab {
-            title: qsTr("Cinemas")
-            Page {
-                titleBar: TitleBar {
-                    title: qsTr("Cinemas")
-                }
-                Label {
-                    text: qsTr("Cinemas")
-                }
-            }
+    showTabsOnActionBar: true
+    Tab {
+        title: "Tab2"
+        Tab2 {
+            
         }
-    ]
+    }
+    Tab {
+        title: "Tab1"
+    Tab1 {
+        
+    }
+    }
+    Tab {
+        title: "Calculator"
+        Calculator {
+            
+        }
+    }
+    Tab {
+        title: "IntegrationQml"
+        Integration {
+            
+        }
+    }
+    Tab {
+        ListaDinamic {
+            
+        }
+    }
 }

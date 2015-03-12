@@ -1,4 +1,4 @@
-QMAKE_TARGET  = CascadesCourse
+QMAKE_TARGET  = AulaUfal2
 LUPDATE       = $(QNX_HOST)/usr/bin/lupdate
 LRELEASE      = $(QNX_HOST)/usr/bin/lrelease
 

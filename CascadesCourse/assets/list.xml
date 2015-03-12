@@ -1,0 +1,10 @@
+<model>
+  <header title="North America">
+    <item title="Toronto" subtitle="Ok"/>
+    <item title="New York" subtitle="Ok"/>
+  </header>
+  <header title="Europe">
+    <item title="Copenhagen" subtitle="Ok" />
+    <item title="Malmo" subtitle="Hehe" />
+  </header>
+</model>
